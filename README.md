@@ -25,7 +25,7 @@ I began speaking by doing a 99 second talk at a Ministry of Testing TestBash eve
 - Motor City Software Testers: Virtual, USA - February 2023
 - Internal presentation for annual QA Kickoff event - Houston, USA - February 2023
 
-"ADHD & Me: How neurodivergence serves my testing", presented for:
+["ADHD & Me: How neurodivergence serves my testing"](https://github.com/KarenTestsStuff/PresentationResources/tree/main/ADHD_%26_Me#adhd--me-how-neurodivergence-serves-my-testing), presented for:
 - Ministry of Testing's [TestBash Spring 2023](https://www.ministryoftesting.com/events/testbash-spring-2023): Virtual, UK - March 2023
 - The [Kansas City Developer Conference](https://www.kcdc.info/): Kansas City, USA - June 2023
 - Keynote at [DevSpace Conference](https://www.devspaceconf.com/): Huntsville, USA - October 2023
