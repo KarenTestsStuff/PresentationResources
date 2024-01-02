@@ -19,8 +19,8 @@ My squad who helps me in the fight for software quality justice:
 ### Presented for:
 
 \*\*TODO - link folders here for each repository folder you add
-Agile Testing Days 2023
-DevSpace Technical Conference 2023
-Kansas City Developer Conference 2023
-QualityCon 2023
-TestBash Spring 2023
+- [Agile Testing Days 2023](https://github.com/KarenTestsStuff/PresentationResources/tree/main/ADHD_%26_Me/Agile_Testing_Days_2023#readme)
+- DevSpace Technical Conference 2023
+- Kansas City Developer Conference 2023
+- QualityCon 2023
+- TestBash Spring 2023
