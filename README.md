@@ -1,18 +1,20 @@
 # Karen Tests Stuff - Presentation Resources
+
 This repository will contain materials referenced throughout Karen's conference talks, commonly accessed directly via QR codes within the presentation slides.
 
-## Contents - Home Screen
+## Contents - Home Screen:
+
 Contains relevant speaking experience with individual folders for each presentation with slides and reference materials.
 - [Background](https://github.com/KarenTestsStuff/PresentationResources?tab=readme-ov-file#background)
-- Knowledge Sharing
-- Volunteer Service
-- Speaking Experience
-**TODO - LINK CREATED FOLDERS as you add them to the repository. Also, go drink some water.
+- [Knowledge Sharing](https://github.com/KarenTestsStuff/PresentationResources?tab=readme-ov-file#knowledge-sharing)
+- [Volunteer Service](https://github.com/KarenTestsStuff/PresentationResources?tab=readme-ov-file#volunteer-service)
+- [Speaking Experience](https://github.com/KarenTestsStuff/PresentationResources?tab=readme-ov-file#speaking-experience)
 
 ### Background:
+
 I began speaking by doing a 99 second talk at a Ministry of Testing TestBash event, to thank the organizers for their efforts to bring us important discussions. Once I realized the power of the community we have around us in testing, I knew I had to share us with the world. This inspiration drives my heart for service in my communities. Below is a selection of events I have been involved with.
 
-### Knowledge Sharing
+### Knowledge Sharing:
 
 - Karen Tests Stuff [YouTube channel](https://www.youtube.com/channel/UCaILiR0XEzf0Y1QvibzybCQ): Virtual, USA - Ongoing
 
