@@ -3,7 +3,6 @@
 This folder contains content related to Karen's presentation of "ADHD & Me: How neurodivergence serves my testing". This part of the repo is specific to the talk given at Agile Testing Days 2023, in Potsdam, Germany.
 
 ## Contents:
-
-\*\*TODO - link to specific contents as they are populated
-Slides
-Agile Testing Days link to YouTube video
+- [Slides](https://github.com/KarenTestsStuff/PresentationResources/blob/main/ADHD_%26_Me/Agile_Testing_Days_2023/ADHD%20and%20Me%20-%20Slide%20Deck.pdf)
+- Agile Testing Days session recording on YouTube
+** TODO - add link to YT video when released on ATD channel
