@@ -1,4 +1,4 @@
-# Karen Tests Stuff - PresentationResources - ADHD & Me
+# Karen Tests Stuff - Presentation Resources - ADHD & Me
 
 This folder contains content related to Karen's presentations of "ADHD & Me: How neurodivergence serves my testing". See section below: Presented for, to navigate the folder structure of this repo.
 
