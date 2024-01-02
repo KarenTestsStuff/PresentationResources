@@ -1,4 +1,4 @@
-# Karen Tests Stuff - PresentationResources
+# Karen Tests Stuff - Presentation Resources
 This repository will contain materials referenced throughout Karen's conference talks, commonly accessed directly via QR codes within the presentation slides.
 
 ## Home Screen
