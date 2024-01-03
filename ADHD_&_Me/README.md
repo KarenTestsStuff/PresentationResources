@@ -18,7 +18,7 @@ My squad who helps me in the fight for software quality justice:
 
 ### Presented for:
 
-- [Agile Testing Days 2023](https://github.com/KarenTestsStuff/PresentationResources/blob/main/ADHD_%26_Me/Agile_Testing_Days_2023/README.md): Potsdam, Germany - November 2023
+- [Agile Testing Days 2023](https://github.com/KarenTestsStuff/PresentationResources/blob/main/ADHD_%26_Me/Agile_Testing_Days_2023/README.md) (link to [conference](https://agiletestingdays.com/): Potsdam, Germany - November 2023
 - Keynote at [DevSpace Conference](https://github.com/KarenTestsStuff/PresentationResources/blob/main/ADHD_%26_Me/DevSpace_Conference_2023/README.md) (link to [conference](https://www.devspaceconf.com/)): Huntsville, USA - October 2023
 - [Kansas City Developer Conference](https://github.com/KarenTestsStuff/PresentationResources/blob/main/ADHD_%26_Me/Kansas_City_Developer_Conference_2023/README.md) (link to [conference](https://www.kcdc.info/)): Kansas City, USA - June 2023
 - Ministry of Testing's [TestBash Spring 2023](https://github.com/KarenTestsStuff/PresentationResources/blob/main/ADHD_%26_Me/TestBash_Spring_2023/README.md) (link to [conference](https://www.ministryoftesting.com/events/testbash-spring-2023)): Virtual, UK - March 2023
