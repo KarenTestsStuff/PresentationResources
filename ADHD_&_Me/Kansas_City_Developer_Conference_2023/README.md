@@ -4,5 +4,5 @@ This folder contains content related to Karen's presentation of "ADHD & Me: How 
 
 ## Contents:
 
-- [Slides - \*\*TODO: insert link later]()
+- [Slides](https://github.com/KarenTestsStuff/PresentationResources/blob/main/ADHD_%26_Me/Kansas_City_Developer_Conference_2023/Slide_Deck.pdf)
 - ADHD & Me: Summer 2023 Version recording on [YouTube](https://youtu.be/yPZ4x57BDYQ)
