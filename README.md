@@ -25,6 +25,7 @@ I began speaking by doing a 99 second talk at a Ministry of Testing TestBash eve
 
 ### Speaking Experience
 
+**TODO - update this section and get the link structure standardized with the rest of the README's
 "Community Spirit: All are welcome", presented for:
 - AskUI community meetup: Virtual, Germany - January 2023
 - Motor City Software Testers: Virtual, USA - February 2023
