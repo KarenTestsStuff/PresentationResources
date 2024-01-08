@@ -4,6 +4,9 @@ This folder contains content related to Karen's presentations of "ADHD & Me: How
 
 ## ADHD & Me: How neurodivergence serves my testing
 
+### Recorded version available here:
+[Link to YouTube video](https://youtu.be/yPZ4x57BDYQ?si=dwJcVjAN3EnQSOlc)
+
 ### Abstract:
 
 Brains are weird, neat, squishy things. Mine has been diagnosed with things like ADHD, anxiety, and depression, with a list of common behaviors that go along with it. To some people, this might sound like terrible news. But, I have a different take on my particular collection of mental conditions. I can use pieces of my experience living with them, and turn them into useful tools.
