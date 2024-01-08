@@ -4,8 +4,8 @@ This folder contains content related to Karen's presentation of "ADHD & Me: How 
 
 ## Contents:
 
-- [Slides - \*\*TODO fix link](ADHD_&_Me/Agile_Testing_Days_2023/Slide_Deck.pdf) - Is this fixed now?
+- [Slides](https://github.com/KarenTestsStuff/PresentationResources/blob/main/ADHD_%26_Me/Agile_Testing_Days_2023/Slide_Deck.pdf)
 - Agile Testing Days session recording on YouTube
   \*\* TODO - add link to YT video when released on ATD channel
-- [Session Rating Overview - \*\*TODO insert link]()
-- [Participant Comments - \*\*TODO insert link]()
+- [Session Rating Overview](https://github.com/KarenTestsStuff/PresentationResources/blob/main/ADHD_%26_Me/Agile_Testing_Days_2023/SessionRatingOverview.jpg)
+- [Participant Comments](https://github.com/KarenTestsStuff/PresentationResources/blob/main/ADHD_%26_Me/Agile_Testing_Days_2023/ParticipantComments.jpg)
