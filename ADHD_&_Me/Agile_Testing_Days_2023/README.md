@@ -9,3 +9,8 @@ This folder contains content related to Karen's presentation of "ADHD & Me: How 
   \*\* TODO - add link to YT video when released on ATD channel
 - [Session Rating Overview](https://github.com/KarenTestsStuff/PresentationResources/blob/main/ADHD_%26_Me/Agile_Testing_Days_2023/SessionRatingOverview.jpg)
 - [Participant Comments](https://github.com/KarenTestsStuff/PresentationResources/blob/main/ADHD_%26_Me/Agile_Testing_Days_2023/ParticipantComments.jpg)
+
+### Resources:
+
+- Open Sourcing Mental Health/Illness: [OSMH/OSMI](https://osmihelp.org/)
+  - Recommend checking out their forums and guides based on various roles you might identify with
