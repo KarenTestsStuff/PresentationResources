@@ -4,6 +4,9 @@ This folder contains content related to Karen's presentations of "ADHD & Me: How
 
 ## ADHD & Me: How neurodivergence serves my testing
 
+### Recorded version available here:
+[Link to YouTube video](https://youtu.be/yPZ4x57BDYQ?si=dwJcVjAN3EnQSOlc)
+
 ### Abstract:
 
 Brains are weird, neat, squishy things. Mine has been diagnosed with things like ADHD, anxiety, and depression, with a list of common behaviors that go along with it. To some people, this might sound like terrible news. But, I have a different take on my particular collection of mental conditions. I can use pieces of my experience living with them, and turn them into useful tools.
@@ -15,6 +18,21 @@ My squad who helps me in the fight for software quality justice:
 - ADHD inspires in me a curiosity to dig below the surface
 - Anxiety helps me to empathize with user experience
 - Depression/manic cycles train me to use my energy wisely, at the right time
+
+### Important note here:
+
+Regarding how I use language surrounding mental health, it is important to keep in mind that humans are complex creatures. I have been diagnosed with a combination of conditions, and my experience with each of their symptoms can vary on a daily basis. That makes it difficult to compare my "average" against another person who may use the same terms to describe their experience. The point of this statement is to make clear: one person with a diagnosis is not the same as another person with the same diagnosis. As an additional point, there are plenty of undiagnosed people out there who can't or don't want to get diagnosed.
+
+I say all this to provide you with a list of terms and resources that I often use in this presentation - and some context behind them, with additional resources you can dive into on your own.
+
+References:
+- [Unmasked - **TODO: Insert link here]():
+  -  In general, I really enjoy Ellie Middleton's book but something extra helpful was where she describes the diffference between the "neurodiveristy model" and the "medical model" for using specific language. Highly recommend checking this one out, for many more reasons, but specifically this helped start a lot of self-refelction for me.
+
+Terms:
+- TODO: INSERT COMMON TERMS WITH LINKS HERE...
+- ADHD: "Attention Deficit Hyperactivity Disorder" with maybe some research about even calling it a "disorder" anymore...
+- Neurodiversity vs neurodivergent: (explanation, etc...)
 
 ### Presented for:
 

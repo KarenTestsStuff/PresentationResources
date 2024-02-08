@@ -1,6 +1,6 @@
 # Karen Tests Stuff - Presentation Resources - ADHD and Me - ATD 2023
 
-This folder contains content related to Karen's presentation of "ADHD & Me: How neurodivergence serves my testing". This part of the repo is specific to the talk given at [Agile Testing Days 2023](https://agiletestingdays.com/), in Potsdam, Germany.
+This folder contains content related to Karen's presentation of "ADHD and Me: How neurodivergence serves my testing". This part of the repo is specific to the talk given at [Agile Testing Days 2023](https://agiletestingdays.com/), in Potsdam, Germany.
 
 ## Contents:
 
