@@ -5,6 +5,7 @@ This folder contains content related to Karen's presentations of "ADHD and Me: H
 ## ADHD and Me: How neurodivergence serves my testing
 
 ### Recorded version available here:
+
 [Link to YouTube video](https://youtu.be/yPZ4x57BDYQ?si=dwJcVjAN3EnQSOlc)
 
 ### Abstract:
@@ -26,13 +27,12 @@ Regarding how I use language surrounding mental health, it is important to keep 
 I say all this to provide you with a list of terms and resources that I often use in this presentation - and some context behind them, with additional resources you can dive into on your own.
 
 References:
-- [Unmasked](https://www.penguin.co.uk/books/457703/unmasked-by-middleton-ellie/9780241651988):
-  -  In general, I really enjoy Ellie Middleton's book but something extra helpful was where she describes the diffference between the "neurodiveristy model" and the "medical model" for using specific language. Highly recommend checking this one out, for many more reasons, but specifically this helped start a lot of self-reflection for me.
 
-Terms:
-- TODO: INSERT COMMON TERMS WITH LINKS HERE...
-- ADHD: "Attention Deficit Hyperactivity Disorder" with maybe some research about even calling it a "disorder" anymore...
-- Neurodiversity vs neurodivergent: (explanation, etc...)
+- [Unmasked](https://www.penguin.co.uk/books/457703/unmasked-by-middleton-ellie/9780241651988):
+
+  - In general, I really enjoy Ellie Middleton's book but something extra helpful was where she describes the diffference between the "neurodiveristy model" and the "medical model" for using specific language. Highly recommend checking this one out, for many more reasons, but specifically this helped start a lot of self-reflection for me.
+
+- [OSMH](https://osmhhelp.org/) - Open Sourcing Mental Health
 
 ### Presented for:
 
