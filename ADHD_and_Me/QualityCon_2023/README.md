@@ -1,4 +1,4 @@
-# Karen Tests Stuff - Presentation Resources - ADHD & Me - QualityCon 2023
+# Karen Tests Stuff - Presentation Resources - ADHD and Me - QualityCon 2023
 
 This folder contains content related to Karen's presentation of "ADHD & Me: How neurodivergence serves my testing". This part of the repo is specific to the session given at QualityCon 2023, virtually.
 
