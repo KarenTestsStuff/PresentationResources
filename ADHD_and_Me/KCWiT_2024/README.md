@@ -4,6 +4,6 @@ This folder contains content related to Karen's presentation of "ADHD and Me: Ho
 
 ## Contents:
 
-- [Slides - TODO add link]()
-- [Keystone Session Announcement - TODO add link]()
-- For more resources, visit the parent directory [here - TODO add link]()
+- [Slides](https://github.com/KarenTestsStuff/PresentationResources/blob/main/ADHD_and_Me/KCWiT_2024/SlideDeck.pdf)
+- [Keystone Session Announcement](https://github.com/KarenTestsStuff/PresentationResources/blob/main/ADHD_and_Me/KCWiT_2024/KCWiTKeystoneSessionAnnouncement.jpg)
+- For more resources, visit the parent directory [here](https://github.com/KarenTestsStuff/PresentationResources/blob/main/ADHD_and_Me/README.md)
