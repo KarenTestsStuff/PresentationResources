@@ -33,8 +33,12 @@ I began speaking by doing a 99 second talk at a Ministry of Testing TestBash eve
 
 ["ADHD and Me: How neurodivergence serves my testing"](https://github.com/KarenTestsStuff/PresentationResources/tree/main/ADHD_and_Me#adhd--me-how-neurodivergence-serves-my-testing), presented for:
 - Ministry of Testing's [TestBash Spring 2023](https://www.ministryoftesting.com/events/testbash-spring-2023): Virtual, UK - March 2023
-- The [Kansas City Developer Conference](https://www.kcdc.info/): Kansas City, USA - June 2023
-- Keynote at [DevSpace Conference](https://www.devspaceconf.com/): Huntsville, USA - October 2023
+- The [Kansas City Developer Conference 2023](https://www.kcdc.info/): Kansas City, USA - June 2023
+- Keynote at [DevSpace Conference 2023](https://www.devspaceconf.com/): Huntsville, USA - October 2023
+- [QualityCon 2023 - TODO add link](https://qualitycon.tech/): Virtual - October 2023
+- [Agile Testing Days 2023 - TODO add link](https://agiletestingdays.com/): Potsdam, Germany - November 2023
+- [AskUI](https://www.linkedin.com/company/askui)'s Automation Advocates Meetup: Virtual - February 2024
+- Keystone Innovation District's [Keystone Sessions](https://www.keystonedistrict.org/sessions), for [Kansas City Women in Technology](https://kcwomenintech.org/): Kansas City, USA - February 2024
 
 "The Fellowship of the Test", presented for:
 - [Agile Testing Days USA](https://agiletestingdays.us/): Chicago, USA - May 2023
