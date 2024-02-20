@@ -36,8 +36,10 @@ Terms:
 
 ### Presented for:
 
+- Keystone Innovation District's [Keystone Sessions](https://github.com/KarenTestsStuff/PresentationResources/tree/main/ADHD_and_Me/KCWiT_2024), for [Kansas City Women in Technology](https://kcwomenintech.org/) (link to [sessions](https://www.keystonedistrict.org/sessions)): Kansas City, USA - February 2024
+- [AskUI](https://www.linkedin.com/company/askui)'s [Automation Advocates Meetup](https://github.com/KarenTestsStuff/PresentationResources/tree/main/ADHD_and_Me/Automation_Advocates_2024): Virtual - February 2024
 - [Agile Testing Days 2023](https://github.com/KarenTestsStuff/PresentationResources/blob/main/ADHD_and_Me/Agile_Testing_Days_2023/README.md) (link to [conference](https://agiletestingdays.com/)): Potsdam, Germany - November 2023
 - Keynote at [DevSpace Conference](https://github.com/KarenTestsStuff/PresentationResources/blob/main/ADHD_and_Me/DevSpace_Conference_2023/README.md) (link to [conference](https://www.devspaceconf.com/)): Huntsville, USA - October 2023
+- [QualityCon](https://github.com/KarenTestsStuff/PresentationResources/blob/main/ADHD_and_Me/QualityCon_2023/README.md) (link to [conference](https://qualitycon.tech/)): Virtual - October 2023
 - [Kansas City Developer Conference](https://github.com/KarenTestsStuff/PresentationResources/blob/main/ADHD_and_Me/Kansas_City_Developer_Conference_2023/README.md) (link to [conference](https://www.kcdc.info/)): Kansas City, USA - June 2023
 - Ministry of Testing's [TestBash Spring 2023](https://github.com/KarenTestsStuff/PresentationResources/blob/main/ADHD_and_Me/TestBash_Spring_2023/README.md) (link to [conference](https://www.ministryoftesting.com/events/testbash-spring-2023)): Virtual, UK - March 2023
-- [QualityCon](https://github.com/KarenTestsStuff/PresentationResources/blob/main/ADHD_and_Me/QualityCon_2023/README.md) (link to [conference](https://qualitycon.tech/)): Virtual - October 2023
