@@ -34,6 +34,9 @@ I began speaking by doing a 99 second talk at a Ministry of Testing TestBash eve
 - [AskUI](https://www.linkedin.com/company/askui)'s Automation Advocates Meetup: Virtual - February 2024
 - Keystone Innovation District's [Keystone Sessions](https://www.keystonedistrict.org/sessions), for [Kansas City Women in Technology](https://kcwomenintech.org/): Kansas City, USA - February 2024
 
+["Your Name Here: Starting your public speaking journey" **TODO - add link to folder structure](), presented for:
+- Ministry of Testing's [TestBash Brighton 2024](https://www.ministryoftesting.com/events/testbash-brighton-2024): Brighton, UK September 2024
+
 "Community Spirit: All are welcome", presented for:
 - AskUI community meetup: Virtual, Germany - January 2023
 - Motor City Software Testers: Virtual, USA - February 2023

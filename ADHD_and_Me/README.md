@@ -1,12 +1,12 @@
 # Karen Tests Stuff - Presentation Resources - ADHD and Me
 
-This folder contains content related to Karen's presentations of "ADHD and Me: How neurodivergence serves my testing". See section below: Presented for, to navigate the folder structure of this repo.
+This folder contains content related to Karen's presentations of "ADHD and Me: How neurodivergence serves my testing". See section below: *Presented for*, to navigate the folder structure of this repo.
 
 ## ADHD and Me: How neurodivergence serves my testing
 
 ### Recorded version available here:
 
-[Link to YouTube video](https://youtu.be/yPZ4x57BDYQ?si=dwJcVjAN3EnQSOlc)
+[Link to YouTube video](https://youtu.be/yPZ4x57BDYQ)
 
 ### Abstract:
 
@@ -36,7 +36,7 @@ References:
 
 ### Presented for:
 
-- Keystone Innovation District's [Keystone Sessions](https://github.com/KarenTestsStuff/PresentationResources/tree/main/ADHD_and_Me/KCWiT_2024), for [Kansas City Women in Technology](https://kcwomenintech.org/) (link to [sessions](https://www.keystonedistrict.org/sessions)): Kansas City, USA - February 2024
+- Keystone Innovation District's [Keystone Sessions](https://github.com/KarenTestsStuff/PresentationResources/tree/main/ADHD_and_Me/KCWiT_2024/README.md), for [Kansas City Women in Technology](https://kcwomenintech.org/) (link to [sessions](https://www.keystonedistrict.org/sessions)): Kansas City, USA - February 2024
 - [AskUI](https://www.linkedin.com/company/askui)'s [Automation Advocates Meetup](https://github.com/KarenTestsStuff/PresentationResources/tree/main/ADHD_and_Me/Automation_Advocates_2024): Virtual - February 2024
 - [Agile Testing Days 2023](https://github.com/KarenTestsStuff/PresentationResources/blob/main/ADHD_and_Me/Agile_Testing_Days_2023/README.md) (link to [conference](https://agiletestingdays.com/)): Potsdam, Germany - November 2023
 - Keynote at [DevSpace Conference](https://github.com/KarenTestsStuff/PresentationResources/blob/main/ADHD_and_Me/DevSpace_Conference_2023/README.md) (link to [conference](https://www.devspaceconf.com/)): Huntsville, USA - October 2023
